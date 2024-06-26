@@ -1,5 +1,5 @@
 # Console (Terminal, Shell) Lab Level 1
-
+finished
 ## Objectives
 
 1. In this lab students will learn to navigate their file system using only the terminal
